@@ -1,7 +1,14 @@
 {
-  "id": 1,
-  "data_processamento": "2022-06-10",
-  "data_final": "2022-06-02",
-  "cpf":"01384614060",
-  "valor": 800.0
- }
+  "paymentType": "IN_CASH",
+  "clientId": 123456,
+  "balanceAmount": 200.0,
+  "items": [
+    {
+      "productId": 123,
+      "value": 30.0,
+      "quantity": 2,
+      "discountValue": 5.00,
+      "receiptId": 321
+    }
+  ]
+}
