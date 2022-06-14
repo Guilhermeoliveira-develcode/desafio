@@ -1,0 +1,14 @@
+{
+  "paymentType": "IN_CASH",
+  "clientId": 123456,
+  "balanceAmount": 200.0,
+  "items": [
+    {
+      "productId": 123,
+      "value": 30.0,
+      "quantity": 2,
+      "discountValue": 5.00,
+      "receiptId": 321
+    }
+  ]
+}
