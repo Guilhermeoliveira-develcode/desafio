@@ -1,4 +1,7 @@
 {
+   "paymentType": "IN_CASH",
+   "clientId": 123456,
+   "balanceAmount": 200.0,
    "items": [
     {
       "productId": 123,
