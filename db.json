@@ -1,9 +1,10 @@
 {
-   "paymentType": "IN_CASH",
-   "clientId": 123456,
-   "balanceAmount": 200.0,
    "items": [
     {
+      "id": 1,
+      "cpf": "01384614060",
+      "data_processamento": "2022-08-09",
+      "data_final": "2022-09-07",
       "productId": 123,
       "value": 30.0,
       "quantity": 2,
