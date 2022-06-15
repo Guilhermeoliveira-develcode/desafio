@@ -1,14 +1,9 @@
 {
-   "items": [
-    {
-      "id": 1,
-      "cpf": "01384614060",
-      "data_processamento": "2022-08-09",
-      "data_final": "2022-09-07",
-      "id_produto": 123,
-      "valor": 30.0,
-      "quantidade": 2,
-      "desconto": 5.00
-    }
-  ]
+   "cpf": "01384614060",
+   "data_processamento": "2022-08-09",
+   "data_final": "2022-09-07",
+   "id_produto": 123,
+   "valor": 30.0,
+   "quantidade": 2,
+   "desconto": 5.00
 }
